@@ -1,0 +1,34 @@
+_repo: Frenzied-Fiction_8457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, Canadian'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'My revelations as a spy -- Father Knickerbocker: a fantasy -- The
+  prophet in our midst -- Personal adventures in the spirit world -- The sorrows of
+  a summer guest -- To nature and back again -- The cave man as he is -- Ideal interviews
+  -- The new education -- The errors of Santa Claus -- Lost in New York -- This strenuous
+  age -- The old, old story of how five men went fishing -- Back from the land --
+  The perplexity column as done by the jaded journalist -- Simple stories of success,
+  or How to succeed in life -- In dry Toronto -- Merry Christmas.'
+title: Frenzied Fiction
+url: http://www.gutenberg.org/ebooks/8457
